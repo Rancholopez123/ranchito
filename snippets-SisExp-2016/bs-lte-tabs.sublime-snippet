@@ -1,0 +1,19 @@
+<snippet>
+	<content><![CDATA[
+
+<ul>
+  <li><a href="#tab1">Home</a></li>
+  <li><a href="#tab2">Menu 1</a></li>
+  <li><a href="#tab3">Menu 2</a></li>
+</ul>
+
+<div id="tab1"></div>
+<div id="tab2"></div>
+<div id="tab3"></div>
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	 <tabTrigger>bs-lte-tabs</tabTrigger> 
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
